@@ -1,6 +1,8 @@
 ## Adivinar Números
 
-Este proyecto es un sencillo juego en Python donde el objetivo es adivinar un número aleatorio dentro de un rango determinado. El programa proporciona retroalimentación para cada intento, indicando si el número ingresado es mayor o menor que el número objetivo, hasta que el jugador acierta.
+Este proyecto es un sencillo juego en Python donde el objetivo es adivinar un número aleatorio dentro de un rango determinado. El programa proporciona retroalimentación para cada intento, indicando si el número ingresado es mayor o menor que el número objetivo, hasta que el jugador acierta, la idea se tomo de parte:
+
+https://roadmap.sh/projects/number-guessing-game
 
 ## Características
 
