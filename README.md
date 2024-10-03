@@ -30,6 +30,9 @@ Las contribuciones son bienvenidas. Siéntete libre de hacer un fork del proyect
 3. Realiza tus cambios y haz un commit (\`git commit -m 'Añadir mejora'\`).
 4. Haz push a la rama (\`git push origin mejora\`).
 5. Abre un Pull Request.
+6. enviar a:
+   
+   https://github.com/CamiloMunozb1/adivinar_numeros
 
 ## Licencia
 
